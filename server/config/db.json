@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "USERNAME-REPLACE-ME",
+    "password": "PASSWORD-REPLACE-ME",
+    "database": "NAME-REPLACE-ME",
+    "host": "HOSTNAME-REPLACE-ME",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "USERNAME-REPLACE-ME",
+    "password": "PASSWORD-REPLACE-ME",
+    "database": "NAME-REPLACE-ME",
+    "host": "HOSTNAME-REPLACE-ME",
+    "dialect": "postgres"
+  }
+}

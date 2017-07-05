@@ -1,0 +1,8 @@
+{
+  "development": {
+    "tokenHash": "KEY-REPLACE-ME"
+  },
+  "production": {
+    "tokenHash": "KEY-REPLACE-ME"
+  }
+}
